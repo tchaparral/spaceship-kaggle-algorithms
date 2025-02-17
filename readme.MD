@@ -4,6 +4,6 @@ This repository is  was created to explore machine learning algorithms usinga Ka
 
 <p>Future work will include:
 
-
+<li> First result evaluation;
 <li> Modeling other algorithms;
 <li> Getting better EDA insights from data.
